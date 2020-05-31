@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/WSB_project_2/static/css/main.72210f50.chunk.css",
+    "main.js": "/WSB_project_2/static/js/main.568564e4.chunk.js",
+    "main.js.map": "/WSB_project_2/static/js/main.568564e4.chunk.js.map",
+    "runtime-main.js": "/WSB_project_2/static/js/runtime-main.363ea092.js",
+    "runtime-main.js.map": "/WSB_project_2/static/js/runtime-main.363ea092.js.map",
+    "static/js/2.50b51b54.chunk.js": "/WSB_project_2/static/js/2.50b51b54.chunk.js",
+    "static/js/2.50b51b54.chunk.js.map": "/WSB_project_2/static/js/2.50b51b54.chunk.js.map",
+    "index.html": "/WSB_project_2/index.html",
+    "precache-manifest.401fa0eaf010cf2f16e6cba19927ab45.js": "/WSB_project_2/precache-manifest.401fa0eaf010cf2f16e6cba19927ab45.js",
+    "service-worker.js": "/WSB_project_2/service-worker.js",
+    "static/css/main.72210f50.chunk.css.map": "/WSB_project_2/static/css/main.72210f50.chunk.css.map",
+    "static/js/2.50b51b54.chunk.js.LICENSE.txt": "/WSB_project_2/static/js/2.50b51b54.chunk.js.LICENSE.txt",
+    "static/media/Excel medium.pdf": "/WSB_project_2/static/media/Excel medium.f40e3d20.pdf",
+    "static/media/MS SQL.pdf": "/WSB_project_2/static/media/MS SQL.475772c6.pdf",
+    "static/media/VBA advance.pdf": "/WSB_project_2/static/media/VBA advance.c5b98c86.pdf",
+    "static/media/VBA przkrojowe.pdf": "/WSB_project_2/static/media/VBA przkrojowe.30f8d7ef.pdf",
+    "static/media/access advance.pdf": "/WSB_project_2/static/media/access advance.1468100e.pdf",
+    "static/media/access basic.pdf": "/WSB_project_2/static/media/access basic.84e8cec9.pdf",
+    "static/media/excel - expert.pdf": "/WSB_project_2/static/media/excel - expert.aa6c27f7.pdf",
+    "static/media/gory.jpg": "/WSB_project_2/static/media/gory.e669b90f.jpg",
+    "static/media/img1.png": "/WSB_project_2/static/media/img1.f042853a.png",
+    "static/media/koncerty.jpg": "/WSB_project_2/static/media/koncerty.d0f4655c.jpg",
+    "static/media/power pivot, view, query.pdf": "/WSB_project_2/static/media/power pivot, view, query.86af0db7.pdf",
+    "static/media/programowanie.jpg": "/WSB_project_2/static/media/programowanie.fba2e510.jpg",
+    "static/media/przyroda.jpg": "/WSB_project_2/static/media/przyroda.0263d2a3.jpg",
+    "static/media/pwr_logo.jpg": "/WSB_project_2/static/media/pwr_logo.3c357b2d.jpg",
+    "static/media/python1.pdf": "/WSB_project_2/static/media/python1.412ff35c.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.363ea092.js",
+    "static/js/2.50b51b54.chunk.js",
+    "static/css/main.72210f50.chunk.css",
+    "static/js/main.568564e4.chunk.js"
+  ]
+}
